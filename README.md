@@ -1,7 +1,4 @@
 # Water Surface Elevation River Profile Visualization
-
-**SWOT and LiDAR Visualization with Uncertainty Bands and Landslide Annotation**
-
 ---
 
 ## Overview
